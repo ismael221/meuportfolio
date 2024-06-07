@@ -11,7 +11,7 @@ import { Iknowledge } from '../../interface/IKnowledge.interface';
 export class KnowledgeComponent {
   public arrayknowledge = signal<Iknowledge[]>([
     {
-      src: '/assets/icons/knowledge/html5.svg',
+      src: 'assets/icons/knowledge/html5.svg',
       alt: 'Icone de conhecimento de html5'
     },
     {

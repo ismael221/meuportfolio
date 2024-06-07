@@ -1,4 +1,4 @@
 export class Iknowledge{
-    src:string,
-    alt:string
+    src?:string;
+    alt?:string
 }
