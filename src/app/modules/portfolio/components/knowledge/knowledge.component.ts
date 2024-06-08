@@ -16,19 +16,23 @@ export class KnowledgeComponent {
     },
     {
       src: 'assets/icons/knowledge/css3.svg',
-      alt: 'Icone de conhecimento de html5'
+      alt: 'Icone de conhecimento de CSS3'
     },
     {
       src: 'assets/icons/knowledge/javascript.svg',
-      alt: 'Icone de conhecimento de html5'
+      alt: 'Icone de conhecimento de Javascript'
     },
     {
       src: 'assets/icons/knowledge/angular.svg',
-      alt: 'Icone de conhecimento de html5'
+      alt: 'Icone de conhecimento de Angular'
     },
     {
-      src: 'assets/icons/knowledge/nodejs.svg',
-      alt: 'Icone de conhecimento de html5'
+      src: 'assets/icons/knowledge/java.svg',
+      alt: 'Icone de conhecimento de Java'
+    },
+    {
+      src: 'assets/icons/knowledge/spring.svg',
+      alt: 'Icone de conhecimento de Spring boot'
     },
   ])
 }
